@@ -23,5 +23,5 @@ I am a Data Scientist from Moscow.
 ---
 ### 📑 Portfolio
 
-- [<img src="https://media.licdn.com/dms/image/C4D0BAQFE6HwvEghm2Q/company-logo_200_200/0/1617278504445?e=2147483647&v=beta&t=YTgh-29_orwQCiGsYCW9GUoSdT4Xiu6EPLSPMARYDAM" title="Python" alt="Python" width="15"/> Yandex Practicum projects](YP-projects)
+- [<img src="https://media.licdn.com/dms/image/C4D0BAQFE6HwvEghm2Q/company-logo_200_200/0/1617278504445?e=2147483647&v=beta&t=YTgh-29_orwQCiGsYCW9GUoSdT4Xiu6EPLSPMARYDAM" title="Python" alt="Python" width="15"/> Yandex Practicum projects](https://github.com/EfimovaEV/YP-projects.git)
 
