@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  width=600 align="right">
+<img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  width=500 align="right">
 
 ### 💫 About Me
 ---
