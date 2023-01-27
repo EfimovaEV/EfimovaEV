@@ -10,7 +10,6 @@ I am a Data Scientist 👩‍💻 from Moscow.
 - ☕ coffee lover
 
 :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/-EfimovaElVit-red?color=white&logo=telegram&logoColor=blue)](https://t.me/EfimovaElVit)
-<br/><br/>
 
 ### 📑 Languages and Tools
 ---
