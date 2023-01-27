@@ -1,5 +1,5 @@
 <div>
-  <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 300 align="right">
+  <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 350 align="right">
 </div>
 
 
@@ -18,6 +18,7 @@ I am a Data Scientist from Moscow.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfSJ0J1XGfe6mdE7uA0d4rfHTxd2_e0LN9w&usqp=CAU" title="VBA" alt="VBA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter Notebook" alt="" width="40" height="40"/>
 
+<br></br>
 ---
 ### 📑 Portfolio
 
