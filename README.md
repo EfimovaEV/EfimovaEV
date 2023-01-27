@@ -1,4 +1,4 @@
-<img src="https://im5.ezgif.com/tmp/ezgif-5-e55b9a161c.gif"  height=450 align="right">
+<img src="https://im5.ezgif.com/tmp/ezgif-5-fddfda4580.gif"  height=450 align="right">
 
 ### 💫 About Me
 I am a Data Scientist from Moscow.
