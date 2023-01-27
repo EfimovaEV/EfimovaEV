@@ -1,7 +1,6 @@
 <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 450 align="right">
 
 ### 💫 About Me
----
 I am a Data Scientist from Moscow.
 - ✈️ former aircraft stress analyst
 - 💡  creative thinker
@@ -10,7 +9,6 @@ I am a Data Scientist from Moscow.
 :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/-EfimovaElVit-red?color=white&logo=telegram&logoColor=blue)](https://t.me/EfimovaElVit)
 
 ### 👩‍💻 Languages and Tools
----
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -19,7 +17,7 @@ I am a Data Scientist from Moscow.
 
 
 ### 📑 Portfolio
----
+
 - [<img src="https://media.licdn.com/dms/image/C4D0BAQFE6HwvEghm2Q/company-logo_200_200/0/1617278504445?e=2147483647&v=beta&t=YTgh-29_orwQCiGsYCW9GUoSdT4Xiu6EPLSPMARYDAM" title="Python" alt="Python" width="15"/> Yandex Practicum projects](YP-projects)
 
 
