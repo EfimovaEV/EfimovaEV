@@ -1,5 +1,5 @@
 <div>
-  <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 350 align="right">
+  <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 400 align="right">
 </div>
 
 
