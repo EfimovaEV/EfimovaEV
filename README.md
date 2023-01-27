@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  height=450 align="right">
+<img src="https://im5.ezgif.com/tmp/ezgif-5-e55b9a161c.gif"  height=450 align="right">
 
 ### 💫 About Me
 I am a Data Scientist from Moscow.
