@@ -1,5 +1,5 @@
 <div>
-  <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 400 align="right">
+  <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 350 align="right">
 </div>
 
 
@@ -11,6 +11,7 @@ I am a Data Scientist from Moscow.
 - ☕ coffee lover
 
 :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/-EfimovaElVit-red?color=white&logo=telegram&logoColor=blue)](https://t.me/EfimovaElVit)
+
 ### 👩‍💻 Languages and Tools
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
