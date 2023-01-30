@@ -1,7 +1,6 @@
 <div>
-  <img src="https://im5.ezgif.com/tmp/ezgif-5-cc3d3bb9d8.gif" height = 350 align="right">
+  <img src="https://user-images.githubusercontent.com/123364846/215437865-aa0fccd3-aaba-4724-becc-ed7b118354b4.gif" height = 350 align="right">
 </div>
-
 
 ### 💫 About Me
 I am a Data Scientist from Moscow.
