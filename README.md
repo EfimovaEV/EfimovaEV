@@ -6,7 +6,7 @@
 I am a Data Scientist from Moscow.
 
 - ✈️ former aircraft stress analyst 
-- 💡  creative thinker (according to my mom)
+- 💡  creative thinker
 - ☕ coffee lover
 
 :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/-EfimovaElVit-red?color=white&logo=telegram&logoColor=blue)](https://t.me/EfimovaElVit)
