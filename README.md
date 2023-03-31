@@ -5,7 +5,7 @@
 ### 💫 About Me
 I am a Data Scientist from Moscow.
 
-- ✈️ former aircraft stress analyst 
+- ✈️ ex-aircraft stress analyst
 - 💡  creative thinker
 - ☕ coffee lover
 
